@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e645ef6-0b15-4b3c-94aa-ae016c85d88b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/MyProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/innopolis/MyProgramm.java" afterDir="false" />
-    </list>
+    <list default="true" id="0e645ef6-0b15-4b3c-94aa-ae016c85d88b" name="Changes" comment="Урок 7. &#10;&#10;Из крупных: &#10;1. Класс Car:&#10;   • Поле currentSpeed инициализируется значением 0 в конструкторе.&#10;   • Метод getCurrentSpeed() возвращает текущее значение скорости.&#10;   • Метод speedUp(int increment) увеличивает скорость на заданное значение.&#10;   • Метод brake() уменьшает скорость на 10, и если скорость становится меньше 0, устанавливает ее равной 0.&#10;&#10;2. Класс MyProgram:&#10;&#10;   • В методе main создается экземпляр класса Car.&#10;   • Последовательно запрашивается и выводится текущая скорость после различных операций.&#10;   &#10;   Также выполнены задачи по If,else, и т.д." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +118,18 @@
       <option name="presentableId" value="Default" />
       <updated>1730150244102</updated>
     </task>
+    <task id="LOCAL-00001" summary="Урок 7. &#10;&#10;Из крупных: &#10;1. Класс Car:&#10;   • Поле currentSpeed инициализируется значением 0 в конструкторе.&#10;   • Метод getCurrentSpeed() возвращает текущее значение скорости.&#10;   • Метод speedUp(int increment) увеличивает скорость на заданное значение.&#10;   • Метод brake() уменьшает скорость на 10, и если скорость становится меньше 0, устанавливает ее равной 0.&#10;&#10;2. Класс MyProgram:&#10;&#10;   • В методе main создается экземпляр класса Car.&#10;   • Последовательно запрашивается и выводится текущая скорость после различных операций.&#10;   &#10;   Также выполнены задачи по If,else, и т.д.">
+      <created>1730236128211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730236128211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Урок 7. &#10;&#10;Из крупных: &#10;1. Класс Car:&#10;   • Поле currentSpeed инициализируется значением 0 в конструкторе.&#10;   • Метод getCurrentSpeed() возвращает текущее значение скорости.&#10;   • Метод speedUp(int increment) увеличивает скорость на заданное значение.&#10;   • Метод brake() уменьшает скорость на 10, и если скорость становится меньше 0, устанавливает ее равной 0.&#10;&#10;2. Класс MyProgram:&#10;&#10;   • В методе main создается экземпляр класса Car.&#10;   • Последовательно запрашивается и выводится текущая скорость после различных операций.&#10;   &#10;   Также выполнены задачи по If,else, и т.д." />
+    <option name="LAST_COMMIT_MESSAGE" value="Урок 7. &#10;&#10;Из крупных: &#10;1. Класс Car:&#10;   • Поле currentSpeed инициализируется значением 0 в конструкторе.&#10;   • Метод getCurrentSpeed() возвращает текущее значение скорости.&#10;   • Метод speedUp(int increment) увеличивает скорость на заданное значение.&#10;   • Метод brake() уменьшает скорость на 10, и если скорость становится меньше 0, устанавливает ее равной 0.&#10;&#10;2. Класс MyProgram:&#10;&#10;   • В методе main создается экземпляр класса Car.&#10;   • Последовательно запрашивается и выводится текущая скорость после различных операций.&#10;   &#10;   Также выполнены задачи по If,else, и т.д." />
   </component>
 </project>

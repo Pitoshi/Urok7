@@ -1,16 +1,11 @@
 package ru.innopolis;
 
 public class Card {
-    private String number;
-    private String expirationDate;
-    private String cvv;
-    private String pinCode;
-
+    private final String number;
+    private final String pinCode;
     // Конструктор
     public Card(String number, String expirationDate, String cvv, String pinCode) {
         this.number = number;
-        this.expirationDate = expirationDate;
-        this.cvv = cvv;
         this.pinCode = pinCode;
     }
 
