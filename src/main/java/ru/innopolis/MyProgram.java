@@ -3,7 +3,7 @@ package ru.innopolis;
 public class MyProgram {
     public static void main(String[] args) {
         // Создаем новую карту
-        Card myCard = new Card("1234567812345678", "12/25", "123", "0000");
+        Card myCard = new Card("1234567812345678", "0000");
 
         // Вызываем метод печати с маской
         myCard.printMaskedNumber();

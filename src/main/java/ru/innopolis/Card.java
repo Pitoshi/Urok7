@@ -4,7 +4,7 @@ public class Card {
     private final String number;
     private final String pinCode;
     // Конструктор
-    public Card(String number, String expirationDate, String cvv, String pinCode) {
+    public Card(String number, String pinCode) {
         this.number = number;
         this.pinCode = pinCode;
     }
